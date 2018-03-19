@@ -1,0 +1,18 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^4.0.0-m1.10",
+    "botbuilder-dialogs": "^4.0.0-m1.11",
+    "botbuilder-services": "^4.0.0-m1.10",
+    "dotenv-extended": "^2.0.1",
+    "restify": "^6.3.4"
+  }
+}
